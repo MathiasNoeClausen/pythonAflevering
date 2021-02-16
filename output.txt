@@ -1,0 +1,11 @@
+.git
+.ipynb_checkpoints
+modules
+output.txt
+output1.txt
+pythonFile.csv
+README.md
+requirements.txt
+Week_1.ipynb
+Week_2.ipynb
+Week_3.ipynb
